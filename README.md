@@ -1,8 +1,8 @@
 # c2t_hccs
 
-Kolmafia script to handle a hardcore community service run with my set of skills and IotMs and with any class.
+Kolmafia script to handle a seal clubber community service run with my set of skills and IotMs.
 
-This is a continual work-in-progress. It is not likely to run out-of-the-box for most, but others may be able to glean things from it. To see what is needed to run smoothly without changes, see: https://cheesellc.com/kol/profile.php?u=Zdrvst
+This is a continual work-in-progress. It is not likely to run out-of-the-box for most, but others may be able to glean things from it. To see what is needed to run smoothly without changes, see: https://cheesellc.com/kol/profile.php?u=Duan
 
 ## Installation / Uninstallation
 
