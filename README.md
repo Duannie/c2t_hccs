@@ -2,6 +2,8 @@
 
 Kolmafia script to handle a seal clubber community service run with my set of skills and IotMs.
 
+This is a fork of Zdrvst's hccs script, it is a glorious mess of a script made possible when I Dr. Frankensteined bits of codes from many other CS scripts.
+
 This is a continual work-in-progress. It is not likely to run out-of-the-box for most, but others may be able to glean things from it. To see what is needed to run smoothly without changes, see: https://cheesellc.com/kol/profile.php?u=Duan
 
 ## Usage
@@ -103,11 +105,4 @@ While these are not strictly required, not having enough that either save turns 
 * [packaged familiar scrapbook](https://kol.coldfront.net/thekolwiki/index.php/Packaged_familiar_scrapbook) &mdash; equip before using ten-percent bonus
 * [Our Daily Candles&trade; order form](https://kol.coldfront.net/thekolwiki/index.php/Our_Daily_Candles%E2%84%A2_order_form) &mdash; class-dependent chance of 50% stat buff and/or 10 stats from combat
 * [packaged industrial fire extinguisher](https://kol.coldfront.net/thekolwiki/index.php/Packaged_industrial_fire_extinguisher) &mdash; 30 turns saved on hot test with saber and 3 more turns by itself
-
-## TODO (eventually)
-
-* Genericise things to not assume whoever runs this has everything I do
-* Better handling when overcapping a test, i.e. only use as much resources as needed and not more
-* Purge cruft from changes done over time
-* Add more IotMs and such as I get them
 
