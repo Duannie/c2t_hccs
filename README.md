@@ -4,28 +4,17 @@ Kolmafia script to handle a seal clubber community service run with my set of sk
 
 This is a continual work-in-progress. It is not likely to run out-of-the-box for most, but others may be able to glean things from it. To see what is needed to run smoothly without changes, see: https://cheesellc.com/kol/profile.php?u=Duan
 
-## Installation / Uninstallation
-
-To install, run the following on the gCLI:
-
-`svn checkout https://github.com/c2talon/c2t_hccs/branches/master/kolmafia/`
-
-To uninstall, run the following on the gCLI:
-
-`svn delete c2t_hccs`
-
 ## Usage
 
 * The main script is `c2t_hccs.ash`, and is the thing that should be run to do a community service run
-* Not likely to run out-of-the-box for most. Hoping to change this eventually
-* Able to be re-run at any point in a run, hopefully after manually correcting whatever caused it to stop
+* Not likely to run out-of-the-box for most.
 * Will abort when a non-coil test does not meet its turn threshold after preparations for it are done, which defaults to 1 turn
-* Pre-Valhalla: put diabolic pizza cube in the workshed
+* Pre-Valhalla: put asdon martin in the workshed
 * In Valhalla:
-    - Choose any class
+    - Choose Seal Clubber
     - Choose the corresponding "knoll" moonsign
     - Optimal astral stuff is astral six-pack and astral pet sweater, though neither is strictly required
-* The script uses moods `hccs-mus`, `hccs-mys`, and `hccs-mox` for leveling purposes on muscle, mysticality, and moxie classes, respectively. So set your own to what you want for what skills you have, otherwise you won't have many buffs while levelling.
+* The script uses mood `hccs-mus` for leveling purposes. So set your own to what you want for what skills you have, otherwise you won't have many buffs while levelling.
     - Exception: the script will cast and handle stevedave's shanty of superiority and ur-kel's aria of annoyance, so either put them in the mood as well or leave 2 song slots open for them
     - The moods I use can be seen in [mood examples.txt](https://github.com/c2talon/c2t_hccs/blob/master/mood%20examples.txt) to use as a starting point.
 
